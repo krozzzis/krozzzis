@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👏 Hi there 🅰️🅱️🅾️🅱️🅰️ 
 
-<!--
-**krozzzis/krozzzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-16x16.png" /> I'm a Rust enthusiast
 
-Here are some ideas to get you started:
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="16px"/> Linux user
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Interested in AI, Compilers
+
+🌎 Inspired by Decentralized Networks, Web3
+
+⌨️ Love Split Keyboards, currently use [Jorne](https://github.com/joric/jorne)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krozzzis&hide=html&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
