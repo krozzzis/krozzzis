@@ -12,5 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krozzzis&hide=html&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-## Codewars
+<!--## Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=krozzzis&top_languages=true)
+-->
